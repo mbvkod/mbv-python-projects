@@ -9,4 +9,4 @@ if cesit == 'metre'.lower():
 
 else:
     metre = uzunluk / 100
-    print('metre cinsinden uzunlugun' + str(metre))
+    print('Metre cinsinden uzunluğu: ' + str(metre))
