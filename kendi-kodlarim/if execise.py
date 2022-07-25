@@ -2,7 +2,7 @@ uzunluk = float(input('uzunlugun ne: '))
 cesit = input('santimetre/metre: ')
 
 if cesit == 'metre'.lower():
-    santimetre  = uzunluk * 100
+    santimetre  = uzunluk * 100 + 300
     print('santimetre uzunlugun: ' + str(santimetre))
 
 
