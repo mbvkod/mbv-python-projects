@@ -19,20 +19,3 @@
 
 # print('{:*>60}'.format('phyton world'))
 
-
-memoryview
-
-
-
-
-selamlar
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-
-
-dddddddddddddddddddddddd
-ddddddddddddddddddddddddddddddddd
-dddddddddddddddddddddddddddddddddddddd
-
-
