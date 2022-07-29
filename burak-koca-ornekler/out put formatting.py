@@ -21,3 +21,18 @@
 
 
 memoryview
+
+
+
+
+selamlar
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+
+dddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddd
+dddddddddddddddddddddddddddddddddddddd
+
+
