@@ -1,6 +1,11 @@
+# list           sıralanabilen     değiştirilebilir      indexli     yinelenebilir    ['armut', 'çilek']
+# tuple          sıralanabilen    değiştirlemez          indexli     yinelenebilir    ('armut', 'çilek')
+# set            sırasız          değiştirilebilir       indexsiz    yinelenemez      {'armut', 'çilek'}
+# dictionary     sırasız          değiştirilebilir       indexli     yinelenemez      {'burak':12, 'ahmet': 'mühendis'}
+
 meyvetuple = ('elma', 'kayısı', 'armut', 'karpuz', 'armut')
-# print(meyvetuple)
-# print(type(meyvetuple))
+print(meyvetuple)
+print(type(meyvetuple))
 
 # print(meyvetuple[1])
 # print(meyvetuple[-1])

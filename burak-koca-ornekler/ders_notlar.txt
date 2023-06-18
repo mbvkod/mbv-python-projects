@@ -1,0 +1,5 @@
+10-matematik
+34-fizik
+54-kimya
+66-biyoloji
+12-tarih

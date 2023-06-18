@@ -8,8 +8,11 @@
 # print('değişkenin son hali:', intval)
 
 
-intval1 = 20
-intval2 = 20
+
+
+
+# intval1 = 20
+# intval2 = 20
 
 # if intval1 > intval2:
 #     print('ilk değişkenim ikincisinden daha büyüktür')
@@ -38,13 +41,31 @@ intval2 = 20
 #     print('değişkenler birbirine eşittir')
 
 
-kulaniciadi = input('kullanıcı adı:')
 
-if kulaniciadi == 'MBVadam12':
-    password = input('şifre:')
-    if password == '123456':
-        print('login başarılı')
-    else:
-        print('hatalı parola')
-else:
-    print(kulaniciadi, 'isimli bir kullanıcı bulunamadı')
+
+
+# kulaniciadi = input('kullanıcı adı:')
+
+# if kulaniciadi == 'MBVadam12':
+#     password = input('şifre:')
+#     if password == '123456':
+#         print('login başarılı')
+#     else:
+#         print('hatalı parola')
+# else:
+#     print(kulaniciadi, 'isimli bir kullanıcı bulunamadı')
+
+
+
+
+# struser = input('kullanıcı adı:')
+# strpassword = input('şifre:')
+
+# if struser == 'MBVadam12' and strpassword == '123456':
+#     print('login işlemi başarılı')
+# else:
+#     print('login işlemi başarısız')
+
+
+
+

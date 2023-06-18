@@ -1,9 +1,16 @@
+# list           sıralanabilen     değiştirilebilir      indexli     yinelenebilir    ['armut', 'çilek']
+# tuple          sıralanabilen    değiştirlemez          indexli     yinelenebilir    ('armut', 'çilek')
+# set            sırasız          değiştirilebilir       indexsiz    yinelenemez      {'armut', 'çilek'}
+# dictionary     sırasız          değiştirilebilir       indexli     yinelenemez      {'burak':12, 'ahmet': 'mühendis'}
+
+#  sıralı indexli
+
 meyvelist = ['muz', 'çilek', 'karpuz', 'kavun', 'kavun']
-# print(meyvelist)
-# print(meyvelist[2])
-# print(meyvelist[1:3])
-# meyvelist[2] = 'elma'
-# print(meyvelist)
+print(meyvelist)
+print(meyvelist[2])
+print(meyvelist[1:3])
+meyvelist[2] = 'elma'
+print(meyvelist)
 
 # print(help(list))
 # print((help(list.clear)))

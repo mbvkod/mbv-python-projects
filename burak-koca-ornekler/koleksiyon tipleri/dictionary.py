@@ -1,3 +1,8 @@
+# list           sıralanabilen     değiştirilebilir      indexli     yinelenebilir    ['armut', 'çilek']
+# tuple          sıralanabilen    değiştirlemez          indexli     yinelenebilir    ('armut', 'çilek')
+# set            sırasız          değiştirilebilir       indexsiz    yinelenemez      {'armut', 'çilek'}
+# dictionary     sırasız          değiştirilebilir       indexli     yinelenemez      {'burak':12, 'ahmet': 'mühendis'}
+
 personel1 = {
     'isim': 'burak',
     'yaş': 15,

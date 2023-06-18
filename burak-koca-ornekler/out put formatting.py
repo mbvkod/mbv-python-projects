@@ -31,7 +31,7 @@ print('{:d}'.format(ival))
 print('{:20d}'.format(ival))
 print('{:020d}'.format(ival))
 print('{:,d}'.format(ival))
-print('{:_d}'.format(ival))
+print('{:d}'.format(ival))
 
 fval = 123.456789
 print('{:f}'.format(fval))
